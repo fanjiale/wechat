@@ -1,4 +1,4 @@
-package com.wechat.pojo;
+package com.andy.wechat.pojo;
 
 /**
  * Created by fanjl on 2016/10/8.

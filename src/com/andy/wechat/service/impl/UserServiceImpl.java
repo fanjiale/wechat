@@ -1,9 +1,9 @@
-package com.wechat.service.impl;
+package com.andy.wechat.service.impl;
 
 import com.alibaba.fastjson.JSONObject;
-import com.wechat.dao.UserDao;
-import com.wechat.pojo.User;
-import com.wechat.service.UserService;
+import com.andy.wechat.dao.UserDao;
+import com.andy.wechat.service.UserService;
+import com.andy.wechat.pojo.User;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

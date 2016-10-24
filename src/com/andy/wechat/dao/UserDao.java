@@ -1,4 +1,4 @@
-package com.wechat.dao;
+package com.andy.wechat.dao;
 
 import com.alibaba.fastjson.JSONObject;
 import com.skytech.ark.jdbc.IGenericDAO;

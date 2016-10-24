@@ -1,8 +1,8 @@
-package com.wechat.dao.impl;
+package com.andy.wechat.dao.impl;
 
 import com.alibaba.fastjson.JSONObject;
+import com.andy.wechat.dao.UserDao;
 import com.skytech.ark.jdbc.GenericCRUD;
-import com.wechat.dao.UserDao;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

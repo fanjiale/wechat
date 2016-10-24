@@ -1,4 +1,4 @@
-package com.wechat.pojo;
+package com.andy.wechat.pojo;
 
 import com.alibaba.fastjson.JSONObject;
 

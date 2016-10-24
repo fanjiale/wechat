@@ -1,6 +1,6 @@
-package com.wechat.service;
+package com.andy.wechat.service;
 
-import com.wechat.pojo.User;
+import com.andy.wechat.pojo.User;
 
 /**
  * Created by fanjl on 2016/9/30.

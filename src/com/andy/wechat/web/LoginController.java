@@ -1,9 +1,9 @@
-package com.wechat.web;
+package com.andy.wechat.web;
 
 import com.alibaba.fastjson.JSONObject;
-import com.wechat.pojo.Result;
-import com.wechat.pojo.User;
-import com.wechat.service.UserService;
+import com.andy.wechat.pojo.Result;
+import com.andy.wechat.pojo.User;
+import com.andy.wechat.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

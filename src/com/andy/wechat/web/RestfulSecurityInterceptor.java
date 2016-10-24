@@ -1,4 +1,4 @@
-package com.wechat.web;
+package com.andy.wechat.web;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
